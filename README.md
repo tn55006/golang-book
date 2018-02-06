@@ -1,4 +1,4 @@
-# Go Book
+# Go Book :)
 
 **Name:** *Anupong*
 
@@ -11,5 +11,6 @@
 * chapter 2-2
 
 ## Chapter 3
+* chapter 3-1
 
 ## Chapter 4
