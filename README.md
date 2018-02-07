@@ -12,5 +12,6 @@
 
 ## Chapter 3
 * chapter 3-1 : Zero Value Program
+* chapter 3-2 : String Program
 
 ## Chapter 4
