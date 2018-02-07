@@ -11,6 +11,6 @@
 * chapter 2-2 : My name is Program
 
 ## Chapter 3
-* chapter 3-1
+* chapter 3-1 : Zero Value Program
 
 ## Chapter 4
