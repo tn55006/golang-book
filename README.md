@@ -17,3 +17,4 @@
 
 ## Chapter 4
 * chapter 4-1 : Variable 
+* chapter 4-2 : Variable 2
