@@ -7,6 +7,7 @@ func main() {
 fmt.Print("Enter a number: ")
 var input float64
 fmt.Scanf("%f", &input)
-output := input*2
-fmt.Println(output)
+var output float64
+output = (input-32)*5/9
+fmt.Printf("%.2F", output)
 }
